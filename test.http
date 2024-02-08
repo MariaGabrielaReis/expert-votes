@@ -8,3 +8,9 @@ Content-Type: application/json
 }
 
 ###
+
+GET http://localhost:3333/polls/b1df87ad-9ccf-49e1-83a9-bc21283ad0df HTTP/1.1
+Host: localhost:3333
+Content-Type: application/json
+
+###
