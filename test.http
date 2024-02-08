@@ -3,7 +3,8 @@ Host: localhost:3333
 Content-Type: application/json
 
 {
-    "title": "Nova enquete"
+    "title": "Nova enquete",
+    "options": ["Opção 1","Opção 2","Opção 3","Opção 4"]
 }
 
 ###
