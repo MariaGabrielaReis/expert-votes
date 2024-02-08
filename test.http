@@ -14,3 +14,13 @@ Host: localhost:3333
 Content-Type: application/json
 
 ###
+
+POST http://localhost:3333/polls/b1df87ad-9ccf-49e1-83a9-bc21283ad0df/votes HTTP/1.1
+Host: localhost:3333
+Content-Type: application/json
+
+{
+    "pollOptionId": "841c0b07-4cff-4d32-8b98-34ef235d5308"
+}
+
+###
